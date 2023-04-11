@@ -1,0 +1,5 @@
+@media (max-width: 768px) {
+    .place__title_text-letter-space {
+        letter-spacing: 1.2px;    
+    }
+}

@@ -1,0 +1,22 @@
+/*.place__texts {
+    padding-left: 40px;
+}
+
+@media screen and (max-width: 1024px) {
+    .place__texts {
+        padding-left: 32px;
+    }
+}
+
+@media screen and (max-width: 768px) {
+    .place__texts {
+        padding-left: 28px;
+    }
+}
+
+@media (max-width: 320px) {
+    .place__texts {
+        padding-left: 16px;
+        max-width: 288px;
+    }
+}*/
